@@ -18,7 +18,7 @@
         },
         "OwnerName": {
             "type": "string",
-            "defaultValue": "John Smith",
+            "defaultValue": "Jhoe Black",
             "metadata": {
                 "description": "Name of the stakeholder responsible for this resource"
             }
